@@ -8,7 +8,7 @@ const Footer = () => {
           </div>
           
           <p className="text-muted-foreground text-sm">
-            © 2025 Thannushree Durairaj. All rights reserved.
+          © 2026 Thannushree Durairaj · Built with care 🌿
           </p>
           
           <div className="flex items-center gap-6">
